@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bg-container{
+ 
+  background: linear-gradient(45deg ,rgba(0,0,0,0.5) ,rgba(0,0,0,0.5)), url(https://img.freepik.com/free-photo/long-shot-cliffed-coast-with-crystalline-water_23-2148229769.jpg?t=st=1727364345~exp=1727367945~hmac=fd5bc558dabf8ee6f011b459a5d0e2c3315469e135ff761240366f32bb3673b6&w=740);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}

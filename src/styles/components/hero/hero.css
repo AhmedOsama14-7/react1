@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+.hero-banner{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   width: 100vw;
+   height: 90vh; 
+   padding-top: 4rem ;
+   gap: 7rem;
+}
+
+.placeName{
+    color: white;
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.placeName h3{
+    font-size: 5rem;
+    font-weight: 700;
+
+}
+
+.placeName p{
+    font-size: 0.8rem;
+    font-weight: 100;
+    font-family: Pacifico , sans-serif;
+}
+
+.btns ul{
+    display: flex;
+    gap: 1rem;
+}
+
+.btns ul li{
+    list-style: none;
+}
+
+.btns a {
+    text-decoration: none;
+    color:rgb(170, 169, 169);
+}
+
+.btns .active{
+    color: white;
+}

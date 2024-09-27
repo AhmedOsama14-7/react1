@@ -1,0 +1,17 @@
+.menu{
+    display: flex;
+    gap: 2rem;
+    border-bottom: 1px solid white;
+    width:fit-content;
+    padding-inline: 1.5rem;
+    padding-bottom: 0.3rem ;
+}
+.menu li{
+    text-transform: uppercase;
+    list-style: none;
+}
+.menu a{
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
